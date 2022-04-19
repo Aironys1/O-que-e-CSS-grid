@@ -1,0 +1,8 @@
+Em Cascading Style Sheets, o layout de grade CSS ou a grade CSS
+ criam layouts de grade de design da Web complexos e responsivos com mais facilidade e 
+consistência em todos os navegadores. Historicamente, existem outros métodos para controlar 
+métodos de layout de página da Web, como tabelas, floats e, mais recentemente, 
+CSS Flexible Box Layout.
+
+Com o css grid, podemos fazer um layout mais responsivo, 
+e fazer diversos tipos da forma que colocamos em layout.
